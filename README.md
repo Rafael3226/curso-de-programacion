@@ -31,6 +31,7 @@ Curso completo de programacion desde cero. Cubre los fundamentos de computacion 
 | 05 | [Variables de entorno y scripts](02-linea-de-comandos/05-variables-de-entorno-y-scripts.md) | PATH, export, scripts bash, alias |
 | 06 | [Git basico](02-linea-de-comandos/06-git-basico.md) | Commits, ramas, merge, push/pull, .gitignore |
 | 07 | [Node.js y npm](02-linea-de-comandos/07-node-y-npm.md) | Node.js, npm, package.json, scripts, npx |
+| 08 | [Instalar Visual Studio Code](02-linea-de-comandos/08-instalar-visual-studio-code.md) | Instalacion, interfaz, extensiones, atajos, terminal integrada |
 
 ### 03 - Fundamentos de Programacion (JavaScript)
 
